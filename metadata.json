@@ -1,0 +1,8 @@
+{
+  "name": "Job Opportunities Network",
+  "description": "Connect with employers hiring across the United States. Find flexible warehouse, delivery, and logistics jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
