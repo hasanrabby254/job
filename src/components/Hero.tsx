@@ -30,7 +30,7 @@ const floatVariants: Variants = {
 
 export function Hero() {
   return (
-    <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-28 overflow-hidden bg-white/50">
+    <section className="relative pt-12 pb-16 lg:pt-20 lg:pb-20 overflow-hidden bg-white/50">
       {/* Premium Background gradients */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden">
         <div className="absolute top-[-10%] right-[-5%] w-[800px] h-[800px] bg-brand-primary/5 rounded-full blur-[100px] opacity-80 mix-blend-multiply"></div>
